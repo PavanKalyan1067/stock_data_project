@@ -10,3 +10,9 @@
 1. Get the P/E ratio of the stock
 2. Get the Profit margin for last four quaters of tha stock
 3. Add it to df of existing stock data
+
+## UC-3
+1. Get operatingCashflow of the eah stock company
+2. Get profitLoss of the eah stock company
+3. Get netIncome of the eah stock company
+4. add it to final df
